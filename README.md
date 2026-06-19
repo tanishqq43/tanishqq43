@@ -1,16 +1,15 @@
 ![banner](https://github.com/user-attachments/assets/8e4523a5-d443-4d9d-b50c-cf1a7e0b4ed1)
 
-<h1 align="center">Hi 👋, I'm Nahida Athanikar Nadaf</h1>
+<h1 align="center">Hi 👋, I'm Tanioshq Kakade</h1>
 
 <p align="center">
-  Full Stack Developer (MERN) • DSA Enthusiast
+  Java Developer
 </p>
 
 
 <p align="center">
-  📫 <a href="mailto:nahidathanikar24@gmail.com">Email</a> • 
-  💼 <a href="https://www.linkedin.com/in/nahida-athanikar-nadaf-a0152028b/">LinkedIn</a> • 
-  🌐 <a href="https://nahida-athanikar-potfolio.netlify.app/">Portfolio</a>
+  📫 <a href="mailto:kakadetanish08@gmail.com">Email</a> • 
+  💼 <a href="www.linkedin.com/in/tanishq-kakade-082786258/">LinkedIn</a> • 
 </p>
 
 
@@ -19,7 +18,7 @@
 ---
 ## 👋 Welcome
 
-I am **Nahida Athanikar Nadaf**, a Full Stack Developer specializing in the **MERN stack**, passionate about building scalable and efficient web applications using modern technologies like React, Node.js, MongoDB, and MySQL.
+I am **Tanishq Kakade**, a Full Stack Developer specializing in the **Java**, passionate about building scalable and efficient web applications using modern technologies like React, Node.js, MongoDB, and MySQL.
 
 Strong foundation in **Data Structures and Algorithms**, with a focus on writing efficient and optimized solutions.
 
