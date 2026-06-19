@@ -49,7 +49,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
   </tr>
   <tr>
     <td>Languages</td>
-    <td>Python, JavaScript (ES6+)</td>
+    <td>Java, JavaScript (ES6+)</td>
   </tr>
   <tr>
     <td>Frontend</td>
@@ -57,19 +57,19 @@ This page showcases the projects I’ve built — each reflecting my learning, e
   </tr>
   <tr>
     <td>Backend</td>
-    <td>Node.js, Express.js, REST APIs, JWT Authentication</td>
+    <td>Node.js, Express.js, REST APIs</td>
   </tr>
   <tr>
     <td>Database</td>
-    <td>MongoDB, MySQL</td>
+    <td>MongoDB, MySQL,postgreSQL</td>
   </tr>
   <tr>
     <td>Tools</td>
-    <td>Git, GitHub, VS Code, Chrome DevTools</td>
+    <td>Git, GitHub, VS Code</td>
   </tr>
   <tr>
     <td>AI API and Tools</td>
-    <td>Gemini API, ChatGPT, Cursor, Gemini</td>
+    <td>Gemini API, ChatGPT, Claude, Gemini</td>
   </tr>
 </table>
 
@@ -113,17 +113,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 - Optimized performance using **priority queues** and **adjacency lists** for efficient **graph traversal**  
 - **Visualized graph structures** and shortest paths using **NetworkX** and **Matplotlib** 
 - Built **CLI** and **web-based interfaces** for interactive user input and route analysis  
-- Designed a scalable and efficient solution for real-world navigation and pathfinding problems
-
----
-
-### 🌐 [Nahida’s Portfolio](https://nahida-athanikar-potfolio.netlify.app/)
-
-***Tech: React.js, Tailwind CSS, Animation***
-
-- Developed a **personal portfolio website** to showcase projects and skills  
-- Designed a **clean and responsive UI** using component-based architecture  
-- Organized content with a **structured layout** for projects, skills, and contact information   
+- Designed a scalable and efficient solution for real-world navigation and pathfinding problems.  
 
 ---
 
