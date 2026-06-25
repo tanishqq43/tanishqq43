@@ -36,7 +36,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 ## 🛠️ Technical Skills
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,Hibernate,mongodb,js,Java,tailwind,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,tailwind,bootstrap,git,github,vscode" />
 
 </p>
 
@@ -57,7 +57,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
   </tr>
   <tr>
     <td>Backend</td>
-    <td>Node.js, Express.js, REST APIs</td>
+    <td>Node.js, REST APIs</td>
   </tr>
   <tr>
     <td>Database</td>
