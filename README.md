@@ -28,7 +28,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
 ## 📚 My Education
 
-🎓 **B.Tech in Information Technology (2026)**  
+🎓 **B.Tech in Computer Science Engineering (2026)**  
 *(Sanjeevan Group of Institution, Panhala, Kolhapur, Maharashtra)*
 
 ---
