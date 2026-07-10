@@ -2,9 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Tanishq Kakade</h1>
 
-<marquee><p align="center">
+<marquee>
+<p align="center">
   Full-Stack Developer
-</p></p>marquee>
+</p>
+</marquee>
+
 
 
 <p align="center">
