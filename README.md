@@ -1,4 +1,5 @@
-[![banner]([https://github.com/user-attachments/assets/8e4523a5-d443-4d9d-b50c-cf1a7e0b4ed1](https://canva.link/v9x67go6vhh89fc))](https://github.com/tanishqq43/tanishqq43/issues/1#issue-4877087315)
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/76b3828c-7348-44e2-8c34-a753f7348d47" />
+
 
 <h1 align="center">Hi 👋, I'm Tanishq Kakade</h1>
 
