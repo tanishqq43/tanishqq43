@@ -12,7 +12,7 @@
 
 <p align="center">
   📫 <a href="mailto:kakadetanish08@gmail.com">Email</a> • 
-  💼 <a href="www.linkedin.com/in/tanishq-kakade-082786258/">LinkedIn</a> • 
+  💼 <a href="www.linkedin.com/in/tanishq-kakade-082786258/">LinkedIn</a> 
 </p>
 
 
