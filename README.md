@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/76b3828c-7348-44e2-8c34-a753f7348d47" />
+<img width="1584" height="300" alt="banner" src="https://github.com/user-attachments/assets/76b3828c-7348-44e2-8c34-a753f7348d47" />
 
 
 <h1 align="center">Hi 👋, I'm Tanishq Kakade</h1>
